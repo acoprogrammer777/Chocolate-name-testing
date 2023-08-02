@@ -1,0 +1,10 @@
+#1. Ferrero Rocher
+#2. Lindt & Sprüngli
+#3. Ghirardelli
+#4. Hershey’s
+#5. Toblerone
+#6. Cadbury
+#7. Guylian
+#8. Patchi
+#9. Godiva
+#10. Milka
